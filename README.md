@@ -1,0 +1,1 @@
+This project marks my first step into learning **Flutter** by building a clean and responsive **UI clone of Blinkit**,
